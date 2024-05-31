@@ -3,9 +3,9 @@
 :root {
   --primary-dark-cyan: hsl(180, 29%, 50%);
 
-  --neutral-gray-cyan-one: hsl(180, 52%, 96%);
+  --neutral-gray-cyan-one: hsl(180, 43%, 36%);
   --neutral-gray-cyan-two: hsl(180, 31%, 95%);
-  --neutral-dark-cyan: hsl(180, 8%, 52%);
+  --neutral-dark-cyan: hsl(180, 35%, 33%);
   --neutral-very-dark-cyan: hsl(180, 14%, 20%);
 }
 
